@@ -1,4 +1,3 @@
-Collecting workspace information```markdown
 # AWS Lambda - Benchmark de Modelos de LLM com AWS Lambda
 
 ## 👨‍💻 Projeto desenvolvido por: 
@@ -66,9 +65,9 @@ A estrutura do projeto é organizada da seguinte maneira:
 │   ├── check_aws.py
 │   ├── import_credentials.py
 ├── tmp/
-│   ├── 6pages2019classify.csv
+│   ├── results.csv
 │   ├── outputs_classified/
-│       ├── sonnet_6pages2019classify_classified.xlsx
+│       ├── sonnet_results_classified.xlsx
 ├── lambda_handler.py
 ├── .env
 ├── .env.example
